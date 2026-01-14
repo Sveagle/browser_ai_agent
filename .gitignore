@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Project specific
+user_data/
+browser_session/
+logs/
+*.log
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
