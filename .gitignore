@@ -1,19 +1,29 @@
+# Секреты
+.env
+*.env
+auth.json
+
+# Логи и отчеты
+*.log
+logs/
+reports/
+traces/
+test-results/
+
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
-.venv/
+.pytest_cache/
 venv/
-ENV/
-.env
+.venv/
+build/
+dist/
 
-# Project specific
+# Данные браузера
+.auth/
 user_data/
-browser_session/
-logs/
-*.log
 
-# Playwright
-test-results/
-playwright-report/
-blob-report/
+# IDE
+.vscode/
+.idea/
