@@ -48,3 +48,8 @@ python main.py
 * Интеграция **Computer Vision** для анализа сложных графических интерфейсов.
 * Поддержка **MCP (Model Context Protocol)** для расширения инструментов агента.
 * Внедрение долгосрочной памяти (RAG) для запоминания предпочтений пользователя.
+
+## License
+This project is proprietary. All rights reserved. 
+Usage for commercial purposes or as a base for corporate tools without explicit 
+permission is strictly prohibited.

@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Модуль хранения системных инструкций для автономного AI-агента."""
 
 SYSTEM_PROMPT = """Вы — автономный AI-агент, управляющий браузером в режиме реального времени.

@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Модуль основного оркестратора ИИ-агента.
 
 Реализует автономный цикл принятия решений с памятью действий.

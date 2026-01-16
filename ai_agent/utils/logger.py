@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Модуль настройки логирования.
 
 Обеспечивает форматированный вывод работы агента в консоль.

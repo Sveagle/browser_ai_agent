@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Модуль атомарных действий браузера.
 
 Содержит вспомогательный класс для выполнения низкоуровневых

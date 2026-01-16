@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Модуль взаимодействия с AI-провайдерами через OpenRouter."""
 
 import os

@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Модуль управления жизненным циклом браузера.
 
 Содержит класс BrowserManager, который инкапсулирует работу с Playwright,

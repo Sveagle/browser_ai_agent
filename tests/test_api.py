@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav Orel. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 import asyncio
 import os
 import logging
@@ -6,6 +9,7 @@ from dotenv import load_dotenv
 
 # Отключаем лишние логи от httpx для чистоты вывода
 logging.getLogger("httpx").setLevel(logging.WARNING)
+
 
 async def test():
     # Загружаем переменные из .env

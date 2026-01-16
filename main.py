@@ -1,3 +1,6 @@
+# (c) 2026 Sviatoslav. All rights reserved.
+# This code is proprietary and not for commercial use.
+
 """Точка входа в приложение.
 
 Инициализирует компоненты и запускает интерактивный сеанс с агентом.
